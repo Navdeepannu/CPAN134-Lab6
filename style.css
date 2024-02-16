@@ -1,0 +1,25 @@
+/* header style */
+header {
+    margin: 10px;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.logo h1 {
+    color: rgb(246 153 52);
+}
+
+.specialWord{ 
+    font-size: 2em;
+}
+
+ul li a {
+    color: rgb(246 153 52);
+}
+/* footer style */
+footer {
+    text-align: center;
+    margin-top: 2em;
+}
