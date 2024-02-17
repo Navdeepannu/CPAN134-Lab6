@@ -1,0 +1,32 @@
+/* header style */
+header {
+    margin: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.logo {
+    display: inline-block;
+}
+
+.logo h1 {
+    color: rgb(246 153 52);
+    text-shadow: 5px;
+}
+
+h1 {
+    text-shadow: 2em;    
+}
+.first a{
+    color: rgb(148 139 139);
+}
+
+.second a {
+    color: rgb(150, 17, 31);
+}
+
+footer {
+    text-align:end;
+    margin-top: 2em;
+}
